@@ -1,6 +1,6 @@
 #1 importing modules
 '''import random
-for e in range(7):
+for e in range(5):
 	print(random.randint(1,10))'''
 	
 #2
